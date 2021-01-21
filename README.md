@@ -1,2 +1,2 @@
 # aplodimej
-upload image tydack jadi2 :(
+tutorial from https://bezkoder.com/spring-boot-upload-file-database/
